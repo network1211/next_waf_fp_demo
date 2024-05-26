@@ -1,1 +1,1 @@
-# next_waf_fp_demo
+# BIG-IP NEXT WAF Demo Series 01 - Simple Detection and Respond
